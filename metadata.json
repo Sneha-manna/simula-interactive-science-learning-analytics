@@ -1,0 +1,6 @@
+{
+  "name": "SIMULAB - Interactive STEM Simulation & Analytics",
+  "description": "Explore Mathematics, Physics, and Chemistry through real-time interactive simulations and track conceptual mastery with precision learning analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
